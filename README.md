@@ -30,4 +30,5 @@ Executar 5 consultas específicas no banco Pagila:
 
 ---
 
-Feito por: [Seu Nome]
+Feito por: Lucas Rodrigues Da Silva, e
+           Luis Eduardo
