@@ -22,7 +22,7 @@ Executar 5 consultas específicas no banco Pagila:
 ```
 \i 'CAMINHO/consultas_pagila.sql'
 ```
-
+ 
 ## 📂 Arquivos incluídos
 
 - `consultas_pagila.sql`: script com todas as consultas SQL
@@ -30,5 +30,4 @@ Executar 5 consultas específicas no banco Pagila:
 
 ---
 
-Feito por: Lucas Rodrigues Da Silva, e
-           Luis Eduardo
+Feito por: Lucas Rodrigues Da Silva, Luis Eduardo Oliveira Souza e Claudio Farias Dos Santos
